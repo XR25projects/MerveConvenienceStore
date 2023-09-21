@@ -1,0 +1,14 @@
+/Users/okasi/code/MerveConvenienceStore/bin/Debug/net7.0/MerveConvenienceStore
+/Users/okasi/code/MerveConvenienceStore/bin/Debug/net7.0/MerveConvenienceStore.deps.json
+/Users/okasi/code/MerveConvenienceStore/bin/Debug/net7.0/MerveConvenienceStore.runtimeconfig.json
+/Users/okasi/code/MerveConvenienceStore/bin/Debug/net7.0/MerveConvenienceStore.dll
+/Users/okasi/code/MerveConvenienceStore/bin/Debug/net7.0/MerveConvenienceStore.pdb
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.AssemblyInfoInputs.cache
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.AssemblyInfo.cs
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.csproj.CoreCompileInputs.cache
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.dll
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/refint/MerveConvenienceStore.dll
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.pdb
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/MerveConvenienceStore.genruntimeconfig.cache
+/Users/okasi/code/MerveConvenienceStore/obj/Debug/net7.0/ref/MerveConvenienceStore.dll
